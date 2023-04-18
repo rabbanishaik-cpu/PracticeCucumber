@@ -7,5 +7,5 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(features ="C:\\Users\\rabba\\IdeaProjects\\PracticeCucumber\\Features\\CheckBox.feature",
         glue = "StepDefinitions")
-public class LoginRunner {
+public class Runner {
 }

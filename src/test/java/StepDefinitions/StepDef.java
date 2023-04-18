@@ -8,7 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class LoginStepDef {
+public class StepDef {
     WebDriver driver;
     WebElement checkbox;
     @Given("I launch browser")
